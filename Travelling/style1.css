@@ -1,0 +1,393 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container1 {
+    background-image: url('../land.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+
+.land {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background: url('../land.jpg');
+}
+
+/* 
+.logo {
+    position: absolute;
+    width: 314px;
+    height: 45px;
+    left: 55px;
+    top: 48px;
+
+    font-family: 'Peralta';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+
+    border: 1px solid #000000;
+}
+
+.frame3 {
+    /* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+gap: 8px;
+
+position: absolute;
+width: 164px;
+height: 50px;
+left: 374px;
+top: 45px;
+
+
+
+/* Nav Item */
+
+width: 148px;
+height: 34px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22.6121px;
+line-height: 34px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* 1st */
+color: #212832;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.frame4 {
+
+    /* Frame 4 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    gap: 8px;
+
+    position: absolute;
+    width: 90px;
+    height: 50px;
+    left: 587px;
+    top: 45px;
+
+
+
+    /* Nav Item */
+
+    width: 74px;
+    height: 34px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22.6121px;
+    line-height: 34px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* 1st */
+    color: #212832;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.frame5 {
+    /* Frame 5 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    gap: 8px;
+
+    position: absolute;
+    width: 95px;
+    height: 50px;
+    left: 746px;
+    top: 45px;
+
+
+
+    /* Nav Item */
+
+    width: 79px;
+    height: 34px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22.6121px;
+    line-height: 34px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* 1st */
+    color: #212832;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+frame6 {
+    /* Frame 6 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    gap: 8px;
+
+    position: absolute;
+    width: 124px;
+    height: 50px;
+    left: 907px;
+    top: 45px;
+
+
+
+    /* Nav Item */
+
+    width: 108px;
+    height: 34px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22.6121px;
+    line-height: 34px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+
+    /* 1st */
+    color: #212832;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.login {
+    /* Frame 1 */
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 20px;
+    gap: 8px;
+
+    position: absolute;
+    width: 107px;
+    height: 40px;
+    left: 1107px;
+    top: 50px;
+
+    background: #EC682C;
+    border: 1px solid #EC682C;
+    border-radius: 8px;
+
+
+    /* Nav Item */
+
+    width: 60px;
+    height: 34px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22.6121px;
+    line-height: 34px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.signup {
+    /* Frame 2 */
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 20px;
+    gap: 8px;
+
+    position: absolute;
+    width: 125px;
+    height: 40px;
+    left: 1261px;
+    top: 50px;
+
+    background: #EC682C;
+    border: 1px solid #EC682C;
+    border-radius: 8px;
+
+
+    /* Nav Item */
+
+    width: 85px;
+    height: 34px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22.6121px;
+    line-height: 34px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.heading1 {
+    position: absolute;
+    width: 1108px;
+    height: 89px;
+    left: 41px;
+    top: 387px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 118px;
+    /* or 247% */
+    letter-spacing: -0.04em;
+
+    color: #4B40C5;
+}
+
+.tagline {
+    position: absolute;
+    width: 757px;
+    height: 47px;
+    left: 50px;
+    top: 476px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.find {
+
+    position: absolute;
+    width: 195px;
+    height: 29px;
+    left: 66px;
+    top: 573px;
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 20px;
+    gap: 8px;
+
+    background: #EC682C;
+    border: 1px solid #EC682C;
+    border-radius: 8px;
+
+
+    /* Nav Item */
+
+    width: 85px;
+    height: 34px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22.6121px;
+    line-height: 34px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+*/
