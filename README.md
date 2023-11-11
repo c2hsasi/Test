@@ -36,3 +36,7 @@ To Book a room(POST) - http://localhost:4000/api/hall/book
 
 
 ![image](https://github.com/c2hsasi/Test/assets/129680190/d94bf3ac-53e8-48eb-a600-7f5daac06447)
+
+
+![image](https://github.com/c2hsasi/Test/assets/129680190/5d07aa81-29aa-420a-95da-c2171f389d2b)
+
