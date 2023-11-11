@@ -24,3 +24,5 @@ To Book a room(POST) - http://localhost:4000/api/hall/book
                   "EndTime":"10PM",
                   "RoomName":"BBB"
                   }
+
+1*   Check readme                  
