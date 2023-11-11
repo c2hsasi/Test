@@ -29,4 +29,7 @@ To Book a room(POST) - http://localhost:4000/api/hall/book
 
 
 
-## To get all the booked room data(GET) -
+## To get all the booked room data(GET)
+
+
+{"_id":{"$oid":"654f9544a6d7ea739de68489"},"username":"anu","emailid":"anu@gmail.com","password":"$2b$10$QmlUk/LG7Hk5vYtScaGDiO1TEidldTOK0CzhqWKVieG3dlWliJrb2","__v":{"$numberInt":"0"},"resetPasswordToken":null,"resetPasswordTokenExpiery":null}
