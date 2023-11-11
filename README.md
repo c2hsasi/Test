@@ -25,4 +25,8 @@ To Book a room(POST) - http://localhost:4000/api/hall/book
                   "RoomName":"BBB"
                   }
 
-1*   Check readme                  
+1*   Check readme    
+
+
+
+## To get all the booked room data(GET) -
